@@ -62,6 +62,7 @@ public class twoDMatrix {
         }
         search(matrix,5);
         LargestAndSmallest(matrix);
+        sc.close();
 
     }
     
